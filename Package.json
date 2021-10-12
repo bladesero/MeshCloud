@@ -1,0 +1,11 @@
+{
+    "name": "com.bladesero.Meshcloud",
+    "displayName": "MeshCloud",
+    "version": "0.0.1",
+    "unity": "2020.3",
+    "dependencies": {
+        "com.unity.render-pipelines.core" : "10.5.0"
+    },
+    "repository": {
+    }
+}
